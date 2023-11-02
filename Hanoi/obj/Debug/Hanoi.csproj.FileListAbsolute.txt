@@ -1,0 +1,10 @@
+E:\Hanoi1\Hanoi\Hanoi\obj\Debug\Hanoi.csproj.AssemblyReference.cache
+E:\Hanoi1\Hanoi\Hanoi\obj\Debug\Hanoi.Form1.resources
+E:\Hanoi1\Hanoi\Hanoi\obj\Debug\Hanoi.Properties.Resources.resources
+E:\Hanoi1\Hanoi\Hanoi\obj\Debug\Hanoi.csproj.GenerateResource.cache
+E:\Hanoi1\Hanoi\Hanoi\obj\Debug\Hanoi.csproj.CoreCompileInputs.cache
+E:\Hanoi1\Hanoi\Hanoi\bin\Debug\Hanoi.exe.config
+E:\Hanoi1\Hanoi\Hanoi\bin\Debug\Hanoi.exe
+E:\Hanoi1\Hanoi\Hanoi\bin\Debug\Hanoi.pdb
+E:\Hanoi1\Hanoi\Hanoi\obj\Debug\Hanoi.exe
+E:\Hanoi1\Hanoi\Hanoi\obj\Debug\Hanoi.pdb
