@@ -14,8 +14,8 @@ namespace Hanoi
         public static PictureBox temp;
         public static int steps;
         private void Form1_Load(object sender, EventArgs e)
-        { 
-        
+        {
+            this.KeyPreview = true; 
         }
 
         public class Tower
@@ -170,6 +170,11 @@ namespace Hanoi
                 }
 
             }
+        }
+
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+            e.Handled = true; 
         }
     }
 }
